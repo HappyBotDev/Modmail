@@ -159,17 +159,16 @@ class ConfigManager:
     protected_keys = {
         # Modmail
         "modmail_guild_id": None,
-        "guild_id": None,
-        "log_url": "https://example.com/",
+        "guild_id": 1198291011210850345,
         "log_url_prefix": "/logs",
-        "mongo_uri": None,
+        "mongo_uri": mongodb+srv://modmail1: FG9N4H4c4b5rjhQb@cluster0.gajv4kq.mongodb.net,
         "database_type": "mongodb",
-        "connection_uri": None,  # replace mongo uri in the future
-        "owners": None,
+        "connection_uri": mongodb+srv://modmail1: FG9N4H4c4b5rjhQb@cluster0.gajv4kq.mongodb.net,  # replace mongo uri in the future
+        "owners": 966333459989692477,966384114083172382,
         "enable_presence_intent": False,
         "registry_plugins_only": False,
         # bot
-        "token": None,
+        "token": MTIwOTg5OTcyMDYwMDk3NzQxMA.GLR9_a.asOc4T3ecZ6RztTjJMS32m7-iQ0oEeRjl5f_2w,
         "enable_plugins": True,
         "enable_eval": True,
         # github access token for private repositories
