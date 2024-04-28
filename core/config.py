@@ -168,7 +168,7 @@ class ConfigManager:
         "enable_presence_intent": False,
         "registry_plugins_only": False,
         # bot
-        "token": MTIwOTg5OTcyMDYwMDk3NzQxMA.GLR9_a.asOc4T3ecZ6RztTjJMS32m7-iQ0oEeRjl5f_2w,
+        "token": MTIwOTg5OTcyMDYwMDk3NzQxMA.Gqa_b2.W9IJtTW2IaUAP0MVedPIYfU-d7XeFrDsW0repU,
         "enable_plugins": True,
         "enable_eval": True,
         # github access token for private repositories
